@@ -1,0 +1,5 @@
+{
+  "name": "Zenith Job Sentinel",
+  "description": "An AI-agent powered job monitoring system that matches your resume against real-time postings from your top 10 target companies using Gemini's advanced reasoning and Google Search grounding.",
+  "requestFramePermissions": []
+}
